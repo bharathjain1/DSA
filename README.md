@@ -1,2 +1,2 @@
 # DSA
-This repository will consist all the dsa concepts in c++.
+This repository will consist all the dsa concepts.
